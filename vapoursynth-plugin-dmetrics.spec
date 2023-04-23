@@ -5,7 +5,6 @@ Version:	1
 Release:	1
 License:	GPL v2+
 Group:		Libraries
-%define	gitref	acdeca22038583d73d420ccf76d0658f06cae3c0
 Source0:	https://github.com/vapoursynth/dmetrics/archive/R%{version}/dmetrics-R%{version}.tar.gz
 # Source0-md5:	44291a66169ac65cac666adefbb59c6a
 URL:		https://github.com/vapoursynth/dmetrics
